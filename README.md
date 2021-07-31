@@ -1,8 +1,5 @@
 # TrinityCore-3.3.5a.12340
-分支说明：
-* master是官方源码
-* eluna是添加了eluna脚本支持
-* eluna+npcbots是添加了eluna和npcbots支持和自动平衡机制
+* 支持eluna脚本
 
 # Ubuntu 16.04.7系统下编译
 ## 1、更新系统
