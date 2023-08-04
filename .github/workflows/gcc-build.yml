@@ -39,7 +39,7 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: server-linux-64x-v${{ github.event.inputs.tag_name }}
-        path: ./bin/**/*
+        path: ./bin/bin/**/*
 
   publish:
     runs-on: ubuntu-latest
